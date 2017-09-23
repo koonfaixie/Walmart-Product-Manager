@@ -42,7 +42,7 @@ run and explore on localhost:3000 :
 
 Application preview:
 
-![WPM img]()
+![WPM img](https://github.com/koonfaixie/Walmart-Product-Manager/blob/master/wpm-img.png)
 
 ***
 # How to use application/ Application features:
